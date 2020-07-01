@@ -21,7 +21,7 @@
             "request": "launch",
             "name": "Kotlin Launch",
             "projectRoot": "${workspaceFolder}",
-            "logLevel": "ALL",
+            "logLevel": "INFO",
             "mainClass": "com.example.demo.DemoApplicationKt"
         }
     ]
